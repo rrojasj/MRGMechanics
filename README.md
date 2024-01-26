@@ -1,2 +1,2 @@
 # ProgramacionWeb
-Repositorio para el curso Fundamentos de Programación Web
+Repositorio para el Proyecto y Exámen y curso Fundamentos de Programación Web
